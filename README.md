@@ -34,7 +34,7 @@ GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Sne
 ![Home Dark](./screenshots/home_dark.jpg)
 
 ### 📊 Dashboard (Light Mode)
-![Dashboard Light](./screenshots/dashboardPage_lightMode.jpg)
+![Dashboard Light](./screenshots/dashboard_light.jpg)
 
 ### 📊 Dashboard (Dark Mode)
 ![Dashboard Dark](./screenshots/dashboard_dark.jpg)
