@@ -31,34 +31,34 @@ A responsive and feature-rich web app to manage academic information, view sched
 ![Home Dark](./screenshots/home_dark.jpg)
 
 ### 📊 Dashboard (Light Mode)
-![Dashboard Light](./screenshots/dashboardPage_lightMode.jpg)
+![Dashboard Light](./screenshots/dashboard_light.jpg)
 
 ### 📊 Dashboard (Dark Mode)
-![Dashboard Dark](./screenshots/dashboardPage_darkMode.jpg)
+![Dashboard Dark](./screenshots/dashboard_dark.jpg)
 
 ### 👤 Profile Page
-![Profile](./screenshots/profilePage.jpg)
+![Profile](./screenshots/profile.jpg)
 
 ### 👥 Users Page (Light Mode)
-![Users Light](./screenshots/usersPage_lightMode.jpg)
+![Users Light](./screenshots/users_light.jpg)
 
 ### 👥 Users Page (Dark Mode)
-![Users Dark](./screenshots/usersPage_darkMode.jpg)
+![Users Dark](./screenshots/users_dark.jpg)
 
 ### 📅 Timetable (Light Mode)
-![Schedule Light](./screenshots/schedulePage_lightMode.jpg)
+![Schedule Light](./screenshots/schedule_light.jpg)
 
 ### 📅 Timetable (Dark Mode)
-![Schedule Dark](./screenshots/schedulePage_darkMode.jpg)
-
-### 🔐 Login
-![Login](./screenshots/loginPage.jpg)
-
-### 📝 Signup
-![Signup](./screenshots/signupPage.jpg)
+![Schedule Dark](./screenshots/schedule_dark.jpg)
 
 ### 📄 Semester-wise Downloaded Report
-![Report](./screenshots/semester-wise_downloadedReport.jpg)
+![Report](./screenshots/semester_report.jpg)
+
+### 🔐 Login
+![Login](./screenshots/login.jpg)
+
+### 📝 Signup
+![Signup](./screenshots/signup.jpg)
 
 ---
 
