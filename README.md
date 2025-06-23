@@ -1,10 +1,11 @@
 # 🎓 Student Portal
 
-A responsive and feature-rich web app to manage academic information, view schedules, download reports, and more — built using React and Tailwind CSS.
+A responsive and feature-rich web app to manage academic information, view schedules, download reports, and more — built using **React** and **Tailwind CSS**.
 
 ---
 
-## 🔗 Live Demo  
+## 🔗 Live Demo
+
 👉 [https://student-portal.netlify.app](https://student-portal.netlify.app)
 
 ---
@@ -61,13 +62,13 @@ A responsive and feature-rich web app to manage academic information, view sched
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learned / Challenges Faced
 
-- Effective use of **React Context API** for authentication
-- Building clean, modular UI using **Tailwind CSS**
-- Generating downloadable PDFs with `html2pdf.js`
-- Implementing **dark mode** and responsive layouts
-- Managing and routing pages using **React Router**
+- Learned effective use of **React Context API** for authentication state
+- Built clean, modular UI using **Tailwind CSS**
+- Faced challenges with generating downloadable PDFs and solved it using `html2pdf.js`
+- Implemented **Dark Mode** using Tailwind’s dark variants
+- Learned better layout structuring and responsiveness using **React Router** and conditional styling
 
 ---
 
@@ -92,7 +93,7 @@ npm start
 
 ---
 
-## ▶️ Run the App
+▶️ Run the App
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
 
