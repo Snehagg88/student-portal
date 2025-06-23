@@ -6,10 +6,11 @@ A responsive and feature-rich web app to manage academic information, view sched
 
 ## 🔗 Live Demo
 
-View Live 👉 [https://student-portal-snehagg88.netlify.app](https://student-portal-snehagg88.netlify.app)
+👉 [Live Demo](https://student-portal-snehagg88.netlify.app)
 
 ## 📂 GitHub Repo
-GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Snehagg88/student-portal)
+
+👉 [GitHub Repo](https://github.com/Snehagg88/student-portal)
 
 ---
 
@@ -77,6 +78,7 @@ GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Sne
 ---
 
 ## 🚀 Tech Stack
+
 - ⚛️ React
 - 🎨 Tailwind CSS
 - 🛠️ Create React App (CRA)
@@ -84,8 +86,48 @@ GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Sne
 - 📄 html2pdf.js
 - 🧭 React Router
 - 🧰 Git & GitHub
-- 🧪 ESLint 
+- 🧪 ESLint
 - ⚙️ Node.js & npm
+
+---
+
+## 📁 Folder Structure
+
+```plaintext
+student-portal/
+├── build/                  # Production build (auto-generated)
+├── node_modules/           # Installed dependencies
+├── public/
+│   └── _redirects          # For Netlify routing
+├── screenshots/            # App screenshots used in README
+├── src/
+│   ├── components/
+│   │   └── Navbar.jsx      # Navigation bar
+│   ├── context/
+│   │   └── AuthContext.jsx # Auth state using Context API
+│   ├── pages/              # Core pages
+│   │   ├── Dashboard.jsx
+│   │   ├── Home.jsx
+│   │   ├── Login.jsx
+│   │   ├── Profile.jsx
+│   │   ├── Schedule.jsx
+│   │   ├── Signup.jsx
+│   │   └── Users.jsx
+│   ├── App.css
+│   ├── App.js              # Main app file
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js            # Entry point
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── .env                    # Environment variables
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.js
+└── README.md
 
 ---
 
@@ -98,7 +140,7 @@ git clone https://github.com/Snehagg88/student-portal.git
 cd student-portal
 npm install
 npm start
-``` <!-- ✅ Closing the code block here -->
+```
 
 ---
 
