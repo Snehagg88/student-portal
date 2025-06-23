@@ -11,22 +11,16 @@ View Live 👉 [https://student-portal-snehagg88.netlify.app](https://student-po
 ## 📂 GitHub Repo
 GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Snehagg88/student-portal)
 
-## 🔗 Live Demo
-[View Live](https://student-portal-snehagg88.netlify.app/)
-
-## 📂 GitHub Repo
-[GitHub](https://github.com/Snehagg88/student-portal)
-
 ---
 
 ## 🔧 Features Implemented
 
 - 🔐 **Secure Login & Signup**
 - 📋 **User Management** – Explore and manage student users with search/sort
-- 📊 **Dashboard** – Interactive semester-wise statistics (GPA, Attendance, etc.)
+- 📊 **Dashboard** – Interactive semester-wise statistics (GPA, Attendance, credits, etc.)
 - 📄 **PDF Report Download** – Download semester-wise academic performance
 - 📅 **Timetable** – Organized day-wise schedule view
-- 🌙 **Dark Mode Toggle**
+- 🌙 **Light/Dark Mode Toggle**
 - 💬 **Testimonial Section** – Hear from other students
 
 ---
@@ -71,13 +65,14 @@ GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Sne
 
 ---
 
-## 🧠 What I Learned / Challenges Faced
+## 🧠 What I Learned & Challenges Faced
 
-- Learned effective use of **React Context API** for authentication state
-- Built clean, modular UI using **Tailwind CSS**
-- Faced challenges with generating downloadable PDFs and solved it using `html2pdf.js`
-- Implemented **Dark Mode** using Tailwind’s dark variants
-- Learned better layout structuring and responsiveness using **React Router** and conditional styling
+- Structured a scalable **multi-page React app** using React Router and Context API for global state management.
+- Learned and applied **Tailwind CSS** for utility-first, responsive design — enabling clean layouts and dark mode support.
+- Faced challenges aligning responsive **feature cards**, solved using Tailwind's `grid-cols` and `gap` utilities.
+- Integrated **`html2pdf.js`** to generate downloadable, formatted PDF reports — overcame issues with rendering and export.
+- Understood the importance of proper **routing fallback** using Netlify redirects for single-page applications.
+- Gained hands-on experience with **Git**, GitHub version control, and **Netlify deployment pipelines**.
 
 ---
 
@@ -103,12 +98,14 @@ git clone https://github.com/Snehagg88/student-portal.git
 cd student-portal
 npm install
 npm start
+``` <!-- ✅ Closing the code block here -->
 
 ---
 
-▶️ Run the App
-Runs the app in development mode.
-Open http://localhost:3000 to view it in your browser.
+## ▶️ Run the App
 
-The page will reload when you make changes.
+Runs the app in development mode.  
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
+The page will reload when you make changes.  
 You may also see any lint errors in the console.
+
