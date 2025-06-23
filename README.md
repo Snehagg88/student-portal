@@ -6,7 +6,7 @@ A responsive and feature-rich web app to manage academic information, view sched
 
 ## 🔗 Live Demo
 
-👉 [https://student-portal.netlify.app](https://student-portal.netlify.app)
+👉 [https://student-portal-snehagg88.netlify.app](https://student-portal-snehagg88.netlify.app)
 
 ---
 
@@ -73,11 +73,15 @@ A responsive and feature-rich web app to manage academic information, view sched
 ---
 
 ## 🚀 Tech Stack
-
 - ⚛️ React
 - 🎨 Tailwind CSS
-- 🔀 React Router
-- 📄 HTML2PDF.js
+- 🛠️ Create React App (CRA)
+- 🌐 Netlify
+- 📄 html2pdf.js
+- 🧭 React Router
+- 🧰 Git & GitHub
+- 🧪 ESLint 
+- ⚙️ Node.js & npm
 
 ---
 
