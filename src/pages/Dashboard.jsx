@@ -6,7 +6,7 @@ import html2pdf from 'html2pdf.js';
 export default function Dashboard() {
   const { user, loading } = useAuth();
   const navigate = useNavigate();
-  const reportRef = useRef();
+  
 
   const semesterStats = [
     { sem: 'Sem 1', gpa: '9.13', attendance: '96%', credits: 22, subjects: 6 },
