@@ -6,7 +6,11 @@ A responsive and feature-rich web app to manage academic information, view sched
 
 ## 🔗 Live Demo
 
-👉 [https://student-portal-snehagg88.netlify.app](https://student-portal-snehagg88.netlify.app)
+View Live 👉 [https://student-portal-snehagg88.netlify.app](https://student-portal-snehagg88.netlify.app)
+
+## 📂 GitHub Repo
+GitHub 👉 [https://github.com/Snehagg88/student-portal](https://github.com/Snehagg88/student-portal)
+
 ## 🔗 Live Demo
 [View Live](https://student-portal-snehagg88.netlify.app/)
 
